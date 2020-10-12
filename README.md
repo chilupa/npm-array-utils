@@ -1,1 +1,1 @@
-# JavaScript utility for arrays
+# JavaScript Array Utility
