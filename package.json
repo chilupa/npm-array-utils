@@ -10,5 +10,13 @@
   ],
   "author": "Pavan Chilukuri <ichilupa@gmail.com>",
   "license": "ISC",
-  "description": ""
+  "description": "Array utility functions",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chilupa/npm-array-utils.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chilupa/npm-array-utils/issues"
+  },
+  "homepage": "https://github.com/chilupa/npm-array-utils#readme"
 }
